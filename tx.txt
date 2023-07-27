@@ -1,0 +1,44 @@
+<div class="navbar">
+              <div class="divum">
+                <img src="Divum_Logo.svg" alt=" " width="80px" />
+              </div>
+              <div class="menu">
+                <nav>
+                  <ul>
+                      <li><a href="divum.html" style="margin-right: 30px">Home</a></li>
+                      <li>
+                        <a href="service.html" style="margin-right: 30px">Service</a>
+                      </li>
+                      <li>
+                        <a href="service.html" style="margin-right: 30px">Solution</a>
+                      </li>
+                      <li>
+                        <a href="#Technology" style="margin-right: 30px">Technology</a>
+                      </li>
+                      <li><a href="#About" style="margin-right: 30px">About</a></li>
+                    </ul>
+                </nav>
+              </div>
+            <div class="text">
+              <br />
+              <p>
+                YOUR TRUSTED PARTNER FOR<br />
+                DIGITAL TRANSFORMATION & NEW PRODUCT<br />
+                DEVELOPMENT
+              </p>
+            </div>
+            <div class="center">
+              <video controls autoplay loop>
+                <source
+                  src="https://divum.in/images/home/Banner%20Video.mp4"
+                  type="video/mp4"
+                />
+              </video>
+            </div>
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+          </div>
+          <p style="text-align: center">
+            We power digital transformation for modern enterprises and new product
+            development for visionary startups with our expertise across Design, Multi
+            Cloud, Data Engineering, Analytics, Machine Learning, AI and Blockchain.
+          </p>
